@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, against tumults in Edinburgh</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92655</idno><idno type="EEBO-CITATION">99895758</idno>
+  <idno type="VID">153314</idno>
+  <idno type="EEBO-PROQUEST">2240922780</idno>
+  
+            <idno type="STC">Wing S1621</idno>
+            <idno type="STC">ESTC R229981</idno>
+            <idno type="PROQUEST">99895758</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99895758e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92655)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153314)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2358:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, against tumults in Edinburgh</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to their most excellent [Majesty],</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Steele notation: Arms 242  Queen part hereof,.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Riots --  Scotland --  Early works to 1800.</term>
+               <term type="topical_term">Crime prevention --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:153314:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R M R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEU ET MON DROIT</q>
+               </figure> A PROCLAMATION, <hi>Against Tumults in</hi> Edinburgh.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">W</seg>ILLIAM and MARY by the Grace of GOD, King and Queen of <hi>Great-Britain, France</hi> and <hi>Ireland,</hi> Defenders of the Faith.</signed>
+               <salute>To <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Macers of Our Privy Council, Messengers at Arms, Our Sheriffs in that part, conjunctly and severally, specially constitute, Greeting:</salute>
+            </opener>
+            <p>Forasmuch as, by the frequent Tumults raised within the Burgh of <hi>Edinburgh,</hi> by loose and disorderly persons, specially Journey-men, Prentises, and other ill disposed Servants and Young-men, great Inconveniences fall out, and many innocent peo<g ref="char:EOLhyphen"/>ple are hurt, mutilat, and killed: For preventing whereof, and that all Our Leidges may know the Hazard and Danger they run, by Conveening or Joyning to<g ref="char:EOLhyphen"/>gether in a Tumultuary way, or by being on the Streets either when the Guards of this City, or Our standing Forces are commanded to suppress any such Tu<g ref="char:EOLhyphen"/>mult. We with Advice of Our Privy Council, Prohibite and Discharge all Tu<g ref="char:EOLhyphen"/>multuary and Ryotous Meetings, of any persons whatsoever, by Night or by Day, within Our said Burgh or Suburbs thereof, under the highest Pains of Law: And with Advice foresaid, Require and Command all persons whatsoever, upon any Appearance of Tumult, Ryot, or Rout in the Streets, &amp; drawing out of the Guards to suppress the same; immediatly to retire themselves home to their own Houses respective, and keep themselves within Doors, under the Pain of being repute and holden Accessory to the saids Tumults. And for the better suppressing and dispersing any such Tumultuary and <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yotous Meetings. And We Authorize and Impower the Magistrats of our said Burgh, to order the Officers of any of Our standing Forces, who shall be called in within the said Burgh, to the effect foresaid, as well as the Train-Bands and Guards of Our Town of <hi>Edinburgh,</hi> to fire upon, and shoot with Bullets, against such as shall so assemble themselves in such Tumults and Ryots with Arms, or make Resistance to the Magistrats of Our said Burgh, or Forces imployed for suppressing thereof: And to the effect Our pleasure in the Premisses may be known. OUR WILL IS, and We Charge you straitly, and Command, that in continent these Our Letters seen, ye pass to the Mer<g ref="char:EOLhyphen"/>cat-Cross of <hi>Edinburgh,</hi> and by open Proclamation, make Intimation hereof, that all may know their Hazard. And Ordains these Presents to be Printed.</p>
+            <closer>
+               <dateline>
+                  <hi>Given under Our Signet at</hi> Edinburgh, <date>
+                     <hi>the third day of</hi> March, <hi>and of Our Reign the fourth Year,</hi> 1693.</date>
+               </dateline>
+               <hi>Per Actum Dominorum Secreti Concilii. In Supplementum Signeti.</hi>
+               <signed>GIUB. ELLIOT, <hi>Cls. Sti. Concilii.</hi>
+               </signed>
+            </closer>
+            <trailer>
+               <hi>GOD save King</hi> William <hi>and Queen</hi> Mary,</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to Their most Ex<g ref="char:EOLhyphen"/>cellent <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 1693.</p>
+            <pb facs="tcp:153314:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
